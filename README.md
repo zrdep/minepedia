@@ -87,20 +87,6 @@ O projeto utiliza um arquivo `data.json` que contém informações sobre:
 - Tags de categorização
 - Links para mais informações
 
-## 🔧 Conceitos Aplicados (Imersão Dev Alura)
-
-Este projeto demonstra o uso prático dos seguintes conceitos:
-
-- ✅ Manipulação do DOM (Document Object Model)
-- ✅ Event Listeners (clique, input, scroll)
-- ✅ Fetch API para carregamento de dados
-- ✅ Arrays e métodos (filter, map, slice)
-- ✅ CSS Flexbox e Grid
-- ✅ Animações CSS (@keyframes)
-- ✅ Media Queries (Responsividade)
-- ✅ HTML5 Semântico
-- ✅ JavaScript ES6+ (Arrow Functions, Template Literals)
-
 ## 📝 Licença
 
 Este projeto foi desenvolvido para fins educacionais como parte da Imersão Dev Alura.
@@ -116,7 +102,7 @@ Este projeto foi desenvolvido para fins educacionais como parte da Imersão Dev 
 
 - **Alura** pela Imersão Dev incrível
 - **Google** pelo suporte ao programa
-- **Comunidade Minecraft** pela inspiração
+- **Comunidade do Discord** pelas ajudas
 
 ---
 
