@@ -1,0 +1,2108 @@
+[
+  {
+    "nome": "Elytra",
+    "descricao": "Item de armadura para peito que permite ao jogador planar após saltar de um lugar alto.",
+    "data_criacao": "1.9",
+    "link": "https://minecraft.fandom.com/wiki/Elytra",
+    "tags": [
+      "item",
+      "armadura",
+      "transporte",
+      "end"
+    ]
+  },
+  {
+    "nome": "Bloco de Observador",
+    "descricao": "Bloco de redstone que detecta mudanças em blocos adjacentes e emite um pulso curto.",
+    "data_criacao": "1.11",
+    "link": "https://minecraft.fandom.com/wiki/Observer",
+    "tags": [
+      "bloco",
+      "redstone",
+      "mecanismo",
+      "detector"
+    ]
+  },
+  {
+    "nome": "Shulker",
+    "descricao": "Mob hostil encontrado nas Cidades do End que dispara projéteis levitantes e se esconde em sua casca.",
+    "data_criacao": "1.9",
+    "link": "https://minecraft.fandom.com/wiki/Shulker",
+    "tags": [
+      "mob",
+      "hostil",
+      "end",
+      "drop"
+    ]
+  },
+  {
+    "nome": "Bússola de Recuperação",
+    "descricao": "Bússola especial que aponta para o local da sua última morte.",
+    "data_criacao": "1.19",
+    "link": "https://minecraft.fandom.com/wiki/Recovery_Compass",
+    "tags": [
+      "item",
+      "utilidade",
+      "recuperação",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Vara de Pesca",
+    "descricao": "Ferramenta usada para pescar itens e peixes em corpos d'água.",
+    "data_criacao": "Beta 1.2",
+    "link": "https://minecraft.fandom.com/wiki/Fishing_Rod",
+    "tags": [
+      "ferramenta",
+      "item",
+      "pesca",
+      "utilidade"
+    ]
+  },
+  {
+    "nome": "Frasco de Experiência",
+    "descricao": "Item arremessável que libera uma pequena quantidade de orbes de experiência.",
+    "data_criacao": "1.0.0",
+    "link": "https://minecraft.fandom.com/wiki/Bottle_o'_Enchanting",
+    "tags": [
+      "item",
+      "utilidade",
+      "experiência",
+      "comércio"
+    ]
+  },
+  {
+    "nome": "Fogueira",
+    "descricao": "Bloco que emite fumaça e luz, podendo cozinhar alimentos lentamente e ser usado para sinalização.",
+    "data_criacao": "1.14",
+    "link": "https://minecraft.fandom.com/wiki/Campfire",
+    "tags": [
+      "bloco",
+      "decoração",
+      "cozinha",
+      "luz"
+    ]
+  },
+  {
+    "nome": "Totem da Imortalidade",
+    "descricao": "Item raro que impede a morte do jogador uma vez, restaurando vida e concedendo efeitos benéficos temporariamente.",
+    "data_criacao": "1.11",
+    "link": "https://minecraft.fandom.com/wiki/Totem_of_Undying",
+    "tags": [
+      "item",
+      "utilidade",
+      "drop_raro",
+      "sobrevivência"
+    ]
+  },
+  {
+    "nome": "Lama",
+    "descricao": "Bloco macio obtido ao usar um Frasco de Água na terra, usado para criar blocos de argila ou tijolos de lama.",
+    "data_criacao": "1.19",
+    "link": "https://minecraft.fandom.com/wiki/Mud",
+    "tags": [
+      "bloco",
+      "construção",
+      "pântano",
+      "argila"
+    ]
+  },
+  {
+    "nome": "Fantasma",
+    "descricao": "Mob voador e hostil que ataca jogadores que não dormem por vários dias no jogo.",
+    "data_criacao": "1.13",
+    "link": "https://minecraft.fandom.com/wiki/Phantom",
+    "tags": [
+      "mob",
+      "hostil",
+      "voador",
+      "drop"
+    ]
+  },
+  {
+    "nome": "Pistão Grudento",
+    "descricao": "Bloco que empurra e puxa outros blocos quando energizado por redstone.",
+    "data_criacao": "Beta 1.7.3",
+    "link": "https://minecraft.fandom.com/wiki/Sticky_Piston",
+    "tags": [
+      "bloco",
+      "redstone",
+      "mecanismo",
+      "movimento"
+    ]
+  },
+  {
+    "nome": "Mesa de Cartografia",
+    "descricao": "Bloco de utilidade usado para clonar, expandir e bloquear mapas, e como ponto de trabalho para o cartógrafo.",
+    "data_criacao": "1.14",
+    "link": "https://minecraft.fandom.com/wiki/Cartography_Table",
+    "tags": [
+      "bloco",
+      "utilidade",
+      "trabalho",
+      "mapas"
+    ]
+  },
+  {
+    "nome": "Barco com Baú",
+    "descricao": "Veículo aquático que permite transportar o jogador, outro mob e armazenar itens simultaneamente.",
+    "data_criacao": "1.19",
+    "link": "https://minecraft.fandom.com/wiki/Boat_with_Chest",
+    "tags": [
+      "item",
+      "transporte",
+      "armazenamento",
+      "exploração"
+    ]
+  },
+  {
+    "nome": "Bigorna",
+    "descricao": "Bloco usado para reparar ferramentas e itens encantados ou combinar encantamentos, custando experiência.",
+    "data_criacao": "1.4.2",
+    "link": "https://minecraft.fandom.com/wiki/Anvil",
+    "tags": [
+      "bloco",
+      "utilidade",
+      "encantamento",
+      "reparo"
+    ]
+  },
+  {
+    "nome": "Gás",
+    "descricao": "Mob grande, voador e choroso do Nether que dispara bolas de fogo explosivas contra o jogador.",
+    "data_criacao": "Alpha 1.2.0",
+    "link": "https://minecraft.fandom.com/wiki/Ghast",
+    "tags": [
+      "mob",
+      "hostil",
+      "nether",
+      "voador"
+    ]
+  },
+  {
+    "nome": "Bloco de Esponja",
+    "descricao": "Bloco raro que absorve água em um raio cúbico, encontrado em Monumentos Oceânicos.",
+    "data_criacao": "1.8",
+    "link": "https://minecraft.fandom.com/wiki/Sponge",
+    "tags": [
+      "bloco",
+      "utilidade",
+      "oceano",
+      "monumento"
+    ]
+  },
+  {
+    "nome": "Chifre de Cabra",
+    "descricao": "Item que pode ser tocado para emitir um som alto, com várias variações de tom.",
+    "data_criacao": "1.19",
+    "link": "https://minecraft.fandom.com/wiki/Goat_Horn",
+    "tags": [
+      "item",
+      "utilidade",
+      "som",
+      "decoração"
+    ]
+  },
+  {
+    "nome": "Casco de Tartaruga",
+    "descricao": "Capacete feito de escamas de tartaruga que confere o efeito de Respiração Aquática por 10 segundos.",
+    "data_criacao": "1.13",
+    "link": "https://minecraft.fandom.com/wiki/Turtle_Shell",
+    "tags": [
+      "item",
+      "armadura",
+      "água",
+      "respiração"
+    ]
+  },
+  {
+    "nome": "Poção Estranha",
+    "descricao": "Poção base essencial para a criação da maioria das poções de efeito positivo e negativo.",
+    "data_criacao": "1.0.0",
+    "link": "https://minecraft.fandom.com/wiki/Awkward_Potion",
+    "tags": [
+      "item",
+      "poção",
+      "alquimia",
+      "ingrediente"
+    ]
+  },
+  {
+    "nome": "Vindicador",
+    "descricao": "Mob hostil empunhando um machado, encontrado em Mansões da Floresta e Invasões.",
+    "data_criacao": "1.11",
+    "link": "https://minecraft.fandom.com/wiki/Vindicator",
+    "tags": [
+      "mob",
+      "hostil",
+      "invasão",
+      "illager"
+    ]
+  },
+  {
+    "nome": "Baú do Fim",
+    "descricao": "Bloco de armazenamento que acessa um inventário pessoal de 27 slots, o mesmo em todos os Baús do Fim no mundo.",
+    "data_criacao": "1.3.1",
+    "link": "https://minecraft.fandom.com/wiki/Ender_Chest",
+    "tags": [
+      "bloco",
+      "armazenamento",
+      "teleporte",
+      "end"
+    ]
+  },
+  {
+    "nome": "Cenoura Dourada",
+    "descricao": "Item alimentar que fornece excelente saturação, frequentemente usado para procriação de cavalos ou em poções de Visão Noturna.",
+    "data_criacao": "1.1",
+    "link": "https://minecraft.fandom.com/wiki/Golden_Carrot",
+    "tags": [
+      "comida",
+      "farm",
+      "ingrediente",
+      "saturação"
+    ]
+  },
+  {
+    "nome": "Sino",
+    "descricao": "Bloco que, quando tocado, alerta os moradores sobre invasões e destaca temporariamente todos os mobs hostis próximos.",
+    "data_criacao": "1.14",
+    "link": "https://minecraft.fandom.com/wiki/Bell",
+    "tags": [
+      "bloco",
+      "utilidade",
+      "aldeia",
+      "decoração"
+    ]
+  },
+  {
+    "nome": "Lingote de Netherite",
+    "descricao": "Material de nível superior usado para aprimorar equipamentos de Diamante, tornando-os resistentes ao fogo e mais duráveis.",
+    "data_criacao": "1.16",
+    "link": "https://minecraft.fandom.com/wiki/Netherite_Ingot",
+    "tags": [
+      "item",
+      "material",
+      "nether",
+      "ferramenta",
+      "armadura"
+    ]
+  },
+  {
+    "nome": "Wither",
+    "descricao": "Mob chefe voador hostil invocado pelo jogador, capaz de atirar projéteis explosivos e causar o efeito Wither.",
+    "data_criacao": "1.4.2",
+    "link": "https://minecraft.fandom.com/wiki/Wither",
+    "tags": [
+      "mob",
+      "chefe",
+      "hostil",
+      "invocável"
+    ]
+  },
+  {
+    "nome": "Repetidor de Redstone",
+    "descricao": "Um bloco que repete, atrasa e isola sinais de Redstone. Essencial para circuitos complexos.",
+    "data_criacao": "1.3",
+    "link": "https://minecraft.wiki/w/Redstone_Repeater",
+    "tags": [
+      "bloco",
+      "redstone",
+      "circuito",
+      "componente"
+    ]
+  },
+  {
+    "nome": "Comparador de Redstone",
+    "descricao": "Um bloco que compara, subtrai ou mede a intensidade do sinal de Redstone de contêineres e blocos.",
+    "data_criacao": "1.5",
+    "link": "https://minecraft.wiki/w/Redstone_Comparator",
+    "tags": [
+      "bloco",
+      "redstone",
+      "lógica",
+      "sensor"
+    ]
+  },
+  {
+    "nome": "Pó de Redstone",
+    "descricao": "O material básico usado para transmitir energia em circuitos de Redstone, atuando como fio.",
+    "data_criacao": "Alpha 1.0.1",
+    "link": "https://minecraft.wiki/w/Redstone_Dust",
+    "tags": [
+      "item",
+      "redstone",
+      "material",
+      "circuito"
+    ]
+  },
+  {
+    "nome": "Alavanca",
+    "descricao": "Um interruptor manual que fornece energia constante de Redstone até ser desativado.",
+    "data_criacao": "Alpha 1.0.1",
+    "link": "https://minecraft.wiki/w/Lever",
+    "tags": [
+      "bloco",
+      "redstone",
+      "interruptor",
+      "mecanismo"
+    ]
+  },
+  {
+    "nome": "Botão de Pedra",
+    "descricao": "Um componente de Redstone que fornece um breve pulso de energia quando pressionado.",
+    "data_criacao": "Alpha 1.0.1",
+    "link": "https://minecraft.wiki/w/Stone_Button",
+    "tags": [
+      "bloco",
+      "redstone",
+      "interruptor",
+      "controle"
+    ]
+  },
+  {
+    "nome": "Tocha de Redstone",
+    "descricao": "Uma fonte de energia permanente para circuitos de Redstone ou para inverter sinais.",
+    "data_criacao": "Alpha 1.0.1",
+    "link": "https://minecraft.wiki/w/Redstone_Torch",
+    "tags": [
+      "bloco",
+      "redstone",
+      "fonte",
+      "iluminação"
+    ]
+  },
+  {
+    "nome": "Espada de Netherite",
+    "descricao": "A espada mais poderosa e durável do jogo, resistente ao fogo.",
+    "data_criacao": "1.16",
+    "link": "https://minecraft.wiki/w/Netherite_Sword",
+    "tags": [
+      "item",
+      "arma",
+      "combate",
+      "netherite",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Machado de Diamante",
+    "descricao": "Uma ferramenta eficaz para cortar madeira e uma arma potente, superada apenas pela Netherite.",
+    "data_criacao": "Alpha 1.2.0",
+    "link": "https://minecraft.wiki/w/Diamond_Axe",
+    "tags": [
+      "item",
+      "ferramenta",
+      "combate",
+      "diamante"
+    ]
+  },
+  {
+    "nome": "Tridente",
+    "descricao": "Uma arma de combate corpo a corpo e arremessável, que pode ser encantada para retornar ao jogador.",
+    "data_criacao": "1.13",
+    "link": "https://minecraft.wiki/w/Trident",
+    "tags": [
+      "item",
+      "arma",
+      "combate",
+      "exploração"
+    ]
+  },
+  {
+    "nome": "Besta",
+    "descricao": "Uma arma de longo alcance mais lenta, mas mais poderosa que o arco, capaz de usar foguetes.",
+    "data_criacao": "1.14",
+    "link": "https://minecraft.wiki/w/Crossbow",
+    "tags": [
+      "item",
+      "arma",
+      "combate",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Escudo",
+    "descricao": "Um item usado na mão secundária para bloquear a maioria dos ataques e projéteis.",
+    "data_criacao": "1.9",
+    "link": "https://minecraft.wiki/w/Shield",
+    "tags": [
+      "item",
+      "defesa",
+      "combate",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Maçã Dourada",
+    "descricao": "Um item de comida que concede regeneração temporária e absorção de vida. Pode ser encantada ou normal.",
+    "data_criacao": "Alpha 1.0.11",
+    "link": "https://minecraft.wiki/w/Golden_Apple",
+    "tags": [
+      "item",
+      "comida",
+      "cura",
+      "buff"
+    ]
+  },
+  {
+    "nome": "Poção de Invisibilidade",
+    "descricao": "Remove a visibilidade do jogador ou mob, embora armaduras e itens equipados ainda sejam visíveis.",
+    "data_criacao": "1.0",
+    "link": "https://minecraft.wiki/w/Potion_of_Invisibility",
+    "tags": [
+      "item",
+      "poção",
+      "efeito",
+      "alquimia"
+    ]
+  },
+  {
+    "nome": "Bolo",
+    "descricao": "Um item de comida que deve ser colocado como um bloco e pode ser consumido em até sete fatias.",
+    "data_criacao": "Beta 1.2",
+    "link": "https://minecraft.wiki/w/Cake",
+    "tags": [
+      "bloco",
+      "comida",
+      "doce",
+      "decore"
+    ]
+  },
+  {
+    "nome": "Ensopado Suspeito",
+    "descricao": "Um item de comida feito com cogumelos e flores, que concede efeitos de poção aleatórios e temporários.",
+    "data_criacao": "1.14",
+    "link": "https://minecraft.wiki/w/Suspicious_Stew",
+    "tags": [
+      "item",
+      "comida",
+      "efeito",
+      "mistério"
+    ]
+  },
+  {
+    "nome": "Caldeirão",
+    "descricao": "Um bloco que pode armazenar água, lava ou poções (na Bedrock Edition) e apagar entidades em chamas.",
+    "data_criacao": "1.0",
+    "link": "https://minecraft.wiki/w/Cauldron",
+    "tags": [
+      "bloco",
+      "utilidade",
+      "alquimia",
+      "armazenamento"
+    ]
+  },
+  {
+    "nome": "Farol",
+    "descricao": "Um bloco que, quando ativado por uma pirâmide de minérios, concede efeitos de status poderosos próximos.",
+    "data_criacao": "1.4.2",
+    "link": "https://minecraft.wiki/w/Beacon",
+    "tags": [
+      "bloco",
+      "utilidade",
+      "estrutura",
+      "buff"
+    ]
+  },
+  {
+    "nome": "Olho do Fim",
+    "descricao": "Usado para localizar fortalezas subterrâneas e ativar o Portal do End.",
+    "data_criacao": "1.0",
+    "link": "https://minecraft.wiki/w/Eye_of_Ender",
+    "tags": [
+      "item",
+      "exploração",
+      "teletransporte",
+      "end"
+    ]
+  },
+  {
+    "nome": "Bússola",
+    "descricao": "Um item que aponta para o ponto de spawn mundial ou para um Bloco de Magnetita se encantada.",
+    "data_criacao": "Alpha 1.0.8",
+    "link": "https://minecraft.wiki/w/Compass",
+    "tags": [
+      "item",
+      "navegação",
+      "ferramenta",
+      "exploração"
+    ]
+  },
+  {
+    "nome": "Mapa Localizador",
+    "descricao": "Um item de navegação que exibe o mundo ao redor e a localização do jogador.",
+    "data_criacao": "Alpha 1.0.8",
+    "link": "https://minecraft.wiki/w/Map",
+    "tags": [
+      "item",
+      "navegação",
+      "exploração",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Mesa de Ferraria",
+    "descricao": "Um bloco de utilidade usado para aprimorar ferramentas e armaduras de diamante para Netherite.",
+    "data_criacao": "1.14",
+    "link": "https://minecraft.wiki/w/Smithing_Table",
+    "tags": [
+      "bloco",
+      "utilidade",
+      "artesanato",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Fornalha",
+    "descricao": "Um bloco essencial usado para derreter minérios, cozinhar comida e queimar itens.",
+    "data_criacao": "Alpha 1.0.4",
+    "link": "https://minecraft.wiki/w/Furnace",
+    "tags": [
+      "bloco",
+      "utilidade",
+      "cozinha",
+      "processamento"
+    ]
+  },
+  {
+    "nome": "Bloco Musical",
+    "descricao": "Um bloco que pode ser programado para tocar notas musicais quando ativado por Redstone.",
+    "data_criacao": "Alpha 1.2.0",
+    "link": "https://minecraft.wiki/w/Note_Block",
+    "tags": [
+      "bloco",
+      "música",
+      "redstone",
+      "decoração"
+    ]
+  },
+  {
+    "nome": "Bloco de Slime",
+    "descricao": "Um bloco que faz o jogador saltar e pode ser usado em máquinas de Redstone como motor de movimento.",
+    "data_criacao": "1.8",
+    "link": "https://minecraft.wiki/w/Slime_Block",
+    "tags": [
+      "bloco",
+      "redstone",
+      "física",
+      "mecanismo"
+    ]
+  },
+  {
+    "nome": "Bloco de Mel",
+    "descricao": "Um bloco que desacelera entidades e impede que itens presos deslizem. Pode ser movido por pistões.",
+    "data_criacao": "1.15",
+    "link": "https://minecraft.wiki/w/Honey_Block",
+    "tags": [
+      "bloco",
+      "redstone",
+      "alimento",
+      "mecanismo"
+    ]
+  },
+  {
+    "nome": "Bloco de Amethyst",
+    "descricao": "Bloco ornamental encontrado nos geodos. Emite um som distinto quando caminhado ou quebrado.",
+    "data_criacao": "1.17",
+    "link": "https://minecraft.wiki/w/Block_of_Amethyst",
+    "tags": [
+      "bloco",
+      "mineral",
+      "decoração",
+      "som"
+    ]
+  },
+  {
+    "nome": "Guardião",
+    "descricao": "Um mob hostil subaquático encontrado em Monumentos Oceânicos, que dispara um raio laser.",
+    "data_criacao": "1.8",
+    "link": "https://minecraft.wiki/w/Guardian",
+    "tags": [
+      "mob",
+      "hostil",
+      "água",
+      "monumento"
+    ]
+  },
+  {
+    "nome": "Ravager",
+    "descricao": "Um mob grande e agressivo, montado por Pillagers, usado em ataques a vilas.",
+    "data_criacao": "1.14",
+    "link": "https://minecraft.wiki/w/Ravager",
+    "tags": [
+      "mob",
+      "hostil",
+      "raid",
+      "montaria"
+    ]
+  },
+  {
+    "nome": "Golem de Ferro",
+    "descricao": "Um mob utilitário passivo, mas defensivo, que protege os aldeões e os jogadores.",
+    "data_criacao": "1.2",
+    "link": "https://minecraft.wiki/w/Iron_Golem",
+    "tags": [
+      "mob",
+      "utilidade",
+      "neutro",
+      "defesa"
+    ]
+  },
+  {
+    "nome": "Llama",
+    "descricao": "Um mob passivo que pode ser domado e usado para transportar itens através de baús equipáveis.",
+    "data_criacao": "1.11",
+    "link": "https://minecraft.wiki/w/Llama",
+    "tags": [
+      "mob",
+      "passivo",
+      "transporte",
+      "montaria"
+    ]
+  },
+  {
+    "nome": "Fox",
+    "descricao": "Um mob noturno que caça galinhas e coelhos e pode segurar itens na boca.",
+    "data_criacao": "1.14",
+    "link": "https://minecraft.wiki/w/Fox",
+    "tags": [
+      "mob",
+      "passivo",
+      "animal",
+      "selvagem"
+    ]
+  },
+  {
+    "nome": "Hoglin",
+    "descricao": "Um mob hostil ou neutro encontrado no Nether, que é a principal fonte de carne comestível na dimensão.",
+    "data_criacao": "1.16",
+    "link": "https://minecraft.wiki/w/Hoglin",
+    "tags": [
+      "mob",
+      "hostil",
+      "nether",
+      "comida"
+    ]
+  },
+  {
+    "nome": "Warden",
+    "descricao": "Um mob cego e extremamente perigoso, encontrado nas Cidades Antigas, que caça por som e vibração.",
+    "data_criacao": "1.19",
+    "link": "https://minecraft.wiki/w/Warden",
+    "tags": [
+      "mob",
+      "hostil",
+      "chefe",
+      "caverna"
+    ]
+  },
+  {
+    "nome": "Allay",
+    "descricao": "Um mob amigável que coleta e entrega itens idênticos ao que lhe foi dado, útil para automação.",
+    "data_criacao": "1.19",
+    "link": "https://minecraft.wiki/w/Allay",
+    "tags": [
+      "mob",
+      "passivo",
+      "utilidade",
+      "automação"
+    ]
+  },
+  {
+    "nome": "Portal do End",
+    "descricao": "O gateway final que permite o acesso à dimensão End, o lar do Ender Dragon.",
+    "data_criacao": "1.0",
+    "link": "https://minecraft.wiki/w/End_Portal",
+    "tags": [
+      "bloco",
+      "estrutura",
+      "end",
+      "viagem"
+    ]
+  },
+  {
+    "nome": "Pedra do Fim",
+    "descricao": "O bloco primário que compõe a ilha principal e as ilhas externas na dimensão End.",
+    "data_criacao": "1.0",
+    "link": "https://minecraft.wiki/w/End_Stone",
+    "tags": [
+      "bloco",
+      "end",
+      "material",
+      "construção"
+    ]
+  },
+  {
+    "nome": "Bloco de Purpur",
+    "descricao": "Um bloco decorativo roxo obtido nas cidades do End, usado na construção de estruturas flutuantes.",
+    "data_criacao": "1.9",
+    "link": "https://minecraft.wiki/w/Purpur_Block",
+    "tags": [
+      "bloco",
+      "end",
+      "decoração",
+      "construção"
+    ]
+  },
+  {
+    "nome": "Tijolos do Nether",
+    "descricao": "Bloco de construção primário encontrado em Fortalezas do Nether, resistente à explosão.",
+    "data_criacao": "Beta 1.9 Prerelease 3",
+    "link": "https://minecraft.wiki/w/Nether_Bricks",
+    "tags": [
+      "bloco",
+      "nether",
+      "construção",
+      "decoração"
+    ]
+  },
+  {
+    "nome": "Pedra Luminosa",
+    "descricao": "Um bloco que emite luz de alta intensidade, tipicamente encontrado no Nether.",
+    "data_criacao": "Alpha 1.2.0",
+    "link": "https://minecraft.wiki/w/Glowstone",
+    "tags": [
+      "bloco",
+      "iluminação",
+      "nether",
+      "material"
+    ]
+  },
+  {
+    "nome": "Distribuidor",
+    "descricao": "Um bloco de Redstone que dispara, usa ou coloca itens de seu inventário.",
+    "data_criacao": "Alpha 1.0.1",
+    "link": "https://minecraft.wiki/w/Dispenser",
+    "tags": [
+      "bloco",
+      "redstone",
+      "mecanismo",
+      "automação"
+    ]
+  },
+  {
+    "nome": "Injetor",
+    "descricao": "Um bloco de Redstone que 'dropa' itens de seu inventário, ao invés de atirá-los ou usá-los.",
+    "data_criacao": "Alpha 1.0.1",
+    "link": "https://minecraft.wiki/w/Dropper",
+    "tags": [
+      "bloco",
+      "redstone",
+      "mecanismo",
+      "automação"
+    ]
+  },
+  {
+    "nome": "Funil",
+    "descricao": "Um bloco que pode coletar e transferir itens de contêineres ou do chão para outro inventário.",
+    "data_criacao": "1.5",
+    "link": "https://minecraft.wiki/w/Hopper",
+    "tags": [
+      "bloco",
+      "redstone",
+      "transporte",
+      "automação"
+    ]
+  },
+  {
+    "nome": "Suporte de Poções",
+    "descricao": "Um bloco de utilidade usado para fabricar poções com ingredientes e frascos d'água.",
+    "data_criacao": "1.0",
+    "link": "https://minecraft.wiki/w/Brewing_Stand",
+    "tags": [
+      "bloco",
+      "alquimia",
+      "utilidade",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Bloco de Feno",
+    "descricao": "Um bloco de armazenamento de trigo que desacelera a queda e pode alimentar animais de fazenda.",
+    "data_criacao": "1.6.1",
+    "link": "https://minecraft.wiki/w/Hay_Block",
+    "tags": [
+      "bloco",
+      "fazenda",
+      "armazenamento",
+      "alimento"
+    ]
+  },
+  {
+    "nome": "Moldura",
+    "descricao": "Um item de entidade que permite aos jogadores exibir itens em paredes ou no chão.",
+    "data_criacao": "1.4.2",
+    "link": "https://minecraft.wiki/w/Item_Frame",
+    "tags": [
+      "item",
+      "entidade",
+      "decoração",
+      "exposição"
+    ]
+  },
+  {
+    "nome": "Estandarte",
+    "descricao": "Um item decorativo grande que pode ser personalizado com vários padrões e cores.",
+    "data_criacao": "1.8",
+    "link": "https://minecraft.wiki/w/Banner",
+    "tags": [
+      "bloco",
+      "decoração",
+      "símbolo",
+      "personalização"
+    ]
+  },
+  {
+    "nome": "Livro Encantado",
+    "descricao": "Um item que armazena um ou mais encantamentos, que podem ser aplicados a ferramentas ou armaduras.",
+    "data_criacao": "1.4.2",
+    "link": "https://minecraft.wiki/w/Enchanted_Book",
+    "tags": [
+      "item",
+      "encantamento",
+      "magia",
+      "tesouro"
+    ]
+  },
+  {
+    "nome": "Caixa de Shulker",
+    "descricao": "Um bloco de armazenamento portátil que mantém seu inventário ao ser quebrado, mesmo quando cheio.",
+    "data_criacao": "1.11",
+    "link": "https://minecraft.wiki/w/Shulker_Box",
+    "tags": [
+      "bloco",
+      "armazenamento",
+      "portátil",
+      "utilidade"
+    ]
+  },
+  {
+    "nome": "Bloco de Ouro",
+    "descricao": "Um bloco de armazenamento compacto feito de nove lingotes de ouro, usado para construção e pirâmides de Farol.",
+    "data_criacao": "Alpha 1.0.1",
+    "link": "https://minecraft.wiki/w/Block_of_Gold",
+    "tags": [
+      "bloco",
+      "recurso",
+      "metal",
+      "construção"
+    ]
+  },
+  {
+    "nome": "Fragmento de Ecos",
+    "descricao": "Um material raro encontrado em baús de Cidades Antigas, usado para criar a Bússola de Recuperação.",
+    "data_criacao": "1.19",
+    "link": "https://minecraft.wiki/w/Echo_Shard",
+    "tags": [
+      "item",
+      "recurso",
+      "raro",
+      "caverna"
+    ]
+  },
+  {
+    "nome": "Fruta Chorus",
+    "descricao": "Item de comida que teleporta o jogador para um local aleatório próximo quando consumido.",
+    "data_criacao": "1.9",
+    "link": "https://minecraft.fandom.com/wiki/Fruta_Chorus",
+    "tags": [
+      "comida",
+      "teletransporte",
+      "end_game",
+      "item"
+    ]
+  },
+  {
+    "nome": "Vareta do Fim",
+    "descricao": "Bloco decorativo e fonte de luz forte, encontrado nas cidades do End.",
+    "data_criacao": "1.9",
+    "link": "https://minecraft.fandom.com/wiki/Vareta_do_Fim",
+    "tags": [
+      "bloco",
+      "decoração",
+      "iluminação",
+      "end_game"
+    ]
+  },
+  {
+    "nome": "Cristal de Prismarinho",
+    "descricao": "Componente de criação obtido ao matar Guardiões, usado para fazer Prismarinho Escuro.",
+    "data_criacao": "1.8",
+    "link": "https://minecraft.fandom.com/wiki/Cristal_de_Prismarinho",
+    "tags": [
+      "item",
+      "criação",
+      "oceano",
+      "material"
+    ]
+  },
+  {
+    "nome": "Fragmento de Prismarinho",
+    "descricao": "Item largado por Guardiões e Guardiões Anciões, usado para criar o bloco de Prismarinho.",
+    "data_criacao": "1.8",
+    "link": "https://minecraft.fandom.com/wiki/Fragmento_de_Prismarinho",
+    "tags": [
+      "item",
+      "criação",
+      "oceano",
+      "material"
+    ]
+  },
+  {
+    "nome": "Barreira",
+    "descricao": "Bloco invisível e indestrutível, usado por operadores e no modo Aventura para limitar áreas.",
+    "data_criacao": "1.8",
+    "link": "https://minecraft.fandom.com/wiki/Barreira",
+    "tags": [
+      "bloco",
+      "utilidade",
+      "invisível",
+      "admin"
+    ]
+  },
+  {
+    "nome": "Jukebox",
+    "descricao": "Bloco que reproduz Discos de Música quando um é inserido.",
+    "data_criacao": "Alpha 1.0.14",
+    "link": "https://minecraft.fandom.com/wiki/Jukebox",
+    "tags": [
+      "bloco",
+      "música",
+      "utilidade",
+      "decoração"
+    ]
+  },
+  {
+    "nome": "Disco de Música 'Cat'",
+    "descricao": "Um dos discos de música mais comuns, encontrado em masmorras e espólios de Piglins.",
+    "data_criacao": "Alpha 1.0.14",
+    "link": "https://minecraft.fandom.com/wiki/Disco_de_Música",
+    "tags": [
+      "item",
+      "música",
+      "colecionável"
+    ]
+  },
+  {
+    "nome": "Cogumelo Gigante Vermelho",
+    "descricao": "Uma estrutura arbórea gerada naturalmente em biomas de cogumelos, feita de blocos de cogumelo.",
+    "data_criacao": "Beta 1.8",
+    "link": "https://minecraft.fandom.com/wiki/Cogumelo_Gigante",
+    "tags": [
+      "estrutura",
+      "planta",
+      "bloco",
+      "bioma"
+    ]
+  },
+  {
+    "nome": "Vaca-Cogumelo",
+    "descricao": "Mob passivo que se parece com uma vaca, mas é coberto por cogumelos; pode ser ordenhado para ensopado de cogumelo.",
+    "data_criacao": "Beta 1.9",
+    "link": "https://minecraft.fandom.com/wiki/Vaca-Cogumelo",
+    "tags": [
+      "mob",
+      "passivo",
+      "comida",
+      "bioma"
+    ]
+  },
+  {
+    "nome": "Bloco de Magma",
+    "descricao": "Bloco que causa dano ao toque e pode ser encontrado no Nether. Emite luz fraca.",
+    "data_criacao": "1.10",
+    "link": "https://minecraft.fandom.com/wiki/Bloco_de_Magma",
+    "tags": [
+      "bloco",
+      "nether",
+      "perigoso",
+      "iluminação"
+    ]
+  },
+  {
+    "nome": "Areia das Almas",
+    "descricao": "Bloco encontrado no Nether que retarda o movimento do jogador e pode ser usado para gerar o Wither.",
+    "data_criacao": "Alpha 1.2.0",
+    "link": "https://minecraft.fandom.com/wiki/Areia_das_Almas",
+    "tags": [
+      "bloco",
+      "nether",
+      "armadilha",
+      "material"
+    ]
+  },
+  {
+    "nome": "Tijolos de Pedra do Abismo",
+    "descricao": "Bloco decorativo feito a partir de Pedra do Abismo, frequentemente usado em fortalezas do Nether.",
+    "data_criacao": "1.10",
+    "link": "https://minecraft.fandom.com/wiki/Tijolos_de_Pedra_do_Abismo",
+    "tags": [
+      "bloco",
+      "nether",
+      "decoração",
+      "construção"
+    ]
+  },
+  {
+    "nome": "Bloco de Netherrack",
+    "descricao": "Bloco básico do Nether, pode ser acendido e queima indefinidamente.",
+    "data_criacao": "Alpha 1.2.0",
+    "link": "https://minecraft.fandom.com/wiki/Netherrack",
+    "tags": [
+      "bloco",
+      "nether",
+      "material",
+      "fogo"
+    ]
+  },
+  {
+    "nome": "Bloco de Osso",
+    "descricao": "Bloco de armazenamento criado a partir de Farinha de Osso, usado para decoração e construção.",
+    "data_criacao": "1.10",
+    "link": "https://minecraft.fandom.com/wiki/Bloco_de_Osso",
+    "tags": [
+      "bloco",
+      "decoração",
+      "material",
+      "armazenamento"
+    ]
+  },
+  {
+    "nome": "Pedra Negra Polida",
+    "descricao": "Uma variante polida da Pedra Negra, usada para construção sofisticada no Nether.",
+    "data_criacao": "1.16",
+    "link": "https://minecraft.fandom.com/wiki/Pedra_Negra_Polida",
+    "tags": [
+      "bloco",
+      "nether",
+      "decoração",
+      "construção"
+    ]
+  },
+  {
+    "nome": "Basalto Polido",
+    "descricao": "Bloco de Basalto sem a textura listrada lateral, usado primariamente para decoração.",
+    "data_criacao": "1.16",
+    "link": "https://minecraft.fandom.com/wiki/Basalto_Polido",
+    "tags": [
+      "bloco",
+      "nether",
+      "decoração",
+      "construção"
+    ]
+  },
+  {
+    "nome": "Bloco de Cobre Encerado",
+    "descricao": "Cobre que foi tratado com mel para evitar a oxidação e manter sua cor atual.",
+    "data_criacao": "1.17",
+    "link": "https://minecraft.fandom.com/wiki/Bloco_de_Cobre_Encerado",
+    "tags": [
+      "bloco",
+      "decoração",
+      "cobre",
+      "material"
+    ]
+  },
+  {
+    "nome": "Cobre Cortado Encerado",
+    "descricao": "Bloco de Cobre cortado (em escadas e lajes) que não sofre oxidação.",
+    "data_criacao": "1.17",
+    "link": "https://minecraft.fandom.com/wiki/Cobre_Cortado_Encerado",
+    "tags": [
+      "bloco",
+      "construção",
+      "decoração",
+      "cobre"
+    ]
+  },
+  {
+    "nome": "Laje de Pedra",
+    "descricao": "Meio bloco usado para fins decorativos e estruturais, evitando o spawn de mobs.",
+    "data_criacao": "Alpha 1.2.0",
+    "link": "https://minecraft.fandom.com/wiki/Laje_de_Pedra",
+    "tags": [
+      "bloco",
+      "construção",
+      "estrutura",
+      "decoração"
+    ]
+  },
+  {
+    "nome": "Escada de Tijolos",
+    "descricao": "Bloco em forma de escada feito de tijolos cozidos, usado para subir níveis.",
+    "data_criacao": "Alpha 1.2.6",
+    "link": "https://minecraft.fandom.com/wiki/Escada_de_Tijolos",
+    "tags": [
+      "bloco",
+      "construção",
+      "estrutura",
+      "decoração"
+    ]
+  },
+  {
+    "nome": "Cerca de Tijolos do Nether",
+    "descricao": "Estrutura de cerca resistente ao fogo, encontrada naturalmente em fortalezas do Nether.",
+    "data_criacao": "1.0",
+    "link": "https://minecraft.fandom.com/wiki/Cerca_de_Tijolos_do_Nether",
+    "tags": [
+      "bloco",
+      "nether",
+      "estrutura",
+      "decoração",
+      "barreira"
+    ]
+  },
+  {
+    "nome": "Portão de Cerca de Abeto",
+    "descricao": "Um portão que pode ser aberto e fechado, feito de madeira de abeto (spruce).",
+    "data_criacao": "1.8",
+    "link": "https://minecraft.fandom.com/wiki/Portão_de_Cerca_de_Abeto",
+    "tags": [
+      "bloco",
+      "estrutura",
+      "madeira",
+      "utilidade"
+    ]
+  },
+  {
+    "nome": "Placa de Pressão de Ouro",
+    "descricao": "Ativador de Redstone sensível à quantidade de entidades (itens ou mobs) sobre ele.",
+    "data_criacao": "1.4.2",
+    "link": "https://minecraft.fandom.com/wiki/Placa_de_Pressão_de_Ouro",
+    "tags": [
+      "redstone",
+      "utilidade",
+      "sensor",
+      "bloco"
+    ]
+  },
+  {
+    "nome": "Placa de Pressão Pesada",
+    "descricao": "Ativador de Redstone feito de ferro, semelhante à de ouro, que detecta peso.",
+    "data_criacao": "1.4.2",
+    "link": "https://minecraft.fandom.com/wiki/Placa_de_Pressão_Pesada",
+    "tags": [
+      "redstone",
+      "utilidade",
+      "sensor",
+      "bloco"
+    ]
+  },
+  {
+    "nome": "Gancho de Armadilha",
+    "descricao": "Componente de Redstone que, quando conectado por linha, cria um sensor de proximidade.",
+    "data_criacao": "1.3.1",
+    "link": "https://minecraft.fandom.com/wiki/Gancho_de_Armadilha",
+    "tags": [
+      "redstone",
+      "armadilha",
+      "utilidade",
+      "bloco"
+    ]
+  },
+  {
+    "nome": "Linha",
+    "descricao": "Usada para conectar ganchos de armadilha, ativando um sinal de Redstone quando rompida.",
+    "data_criacao": "1.3.1",
+    "link": "https://minecraft.fandom.com/wiki/Linha",
+    "tags": [
+      "item",
+      "redstone",
+      "criação",
+      "armadilha"
+    ]
+  },
+  {
+    "nome": "Ovo de Dragão",
+    "descricao": "Um troféu raro obtido ao derrotar o Ender Dragon, pode ser usado como decoração.",
+    "data_criacao": "1.0",
+    "link": "https://minecraft.fandom.com/wiki/Ovo_de_Dragão",
+    "tags": [
+      "troféu",
+      "decoração",
+      "item",
+      "end_game",
+      "bloco"
+    ]
+  },
+  {
+    "nome": "Papiro",
+    "descricao": "Material de criação usado para fazer papel, que por sua vez faz livros e mapas.",
+    "data_criacao": "Alpha 1.0.14",
+    "link": "https://minecraft.fandom.com/wiki/Papiro",
+    "tags": [
+      "item",
+      "criação",
+      "planta",
+      "material"
+    ]
+  },
+  {
+    "nome": "Pólvora",
+    "descricao": "Material usado para criar TNT, fogos de artifício e alguns tipos de poções.",
+    "data_criacao": "Alpha 1.0.14",
+    "link": "https://minecraft.fandom.com/wiki/Pólvora",
+    "tags": [
+      "item",
+      "criação",
+      "explosivo",
+      "recurso"
+    ]
+  },
+  {
+    "nome": "Lágrima de Ghast",
+    "descricao": "Item raro deixado por Ghasts, usado para fazer Poções de Regeneração.",
+    "data_criacao": "Alpha 1.2.0",
+    "link": "https://minecraft.fandom.com/wiki/Lágrima_de_Ghast",
+    "tags": [
+      "item",
+      "criação",
+      "poção",
+      "nether"
+    ]
+  },
+  {
+    "nome": "Pedaço de Mel",
+    "descricao": "Item obtido ao usar tesouras em um Bloco de Mel, usado para criar o Bloco de Mel novamente.",
+    "data_criacao": "1.15",
+    "link": "https://minecraft.fandom.com/wiki/Pedaço_de_Mel",
+    "tags": [
+      "item",
+      "comida",
+      "criação",
+      "abelha"
+    ]
+  },
+  {
+    "nome": "Garrafa de Água",
+    "descricao": "A base fundamental para quase todas as poções do jogo.",
+    "data_criacao": "Beta 1.8",
+    "link": "https://minecraft.fandom.com/wiki/Garrafa_de_Água",
+    "tags": [
+      "item",
+      "poção",
+      "utilidade",
+      "base"
+    ]
+  },
+  {
+    "nome": "Pó de Glowstone",
+    "descricao": "Ingrediente de poção que aumenta a potência do efeito; obtido ao quebrar Pedra Luminosa.",
+    "data_criacao": "Alpha 1.2.0",
+    "link": "https://minecraft.fandom.com/wiki/Pó_de_Glowstone",
+    "tags": [
+      "item",
+      "poção",
+      "nether",
+      "reforço"
+    ]
+  },
+  {
+    "nome": "Pó de Blaze",
+    "descricao": "Ingrediente vital usado para alimentar suportes de poções e criar Pérolas do Fim.",
+    "data_criacao": "Beta 1.9",
+    "link": "https://minecraft.fandom.com/wiki/Pó_de_Blaze",
+    "tags": [
+      "item",
+      "criação",
+      "poção",
+      "combustível"
+    ]
+  },
+  {
+    "nome": "Blaze",
+    "descricao": "Mob hostil voador encontrado em fortalezas do Nether, atira bolas de fogo.",
+    "data_criacao": "Beta 1.9",
+    "link": "https://minecraft.fandom.com/wiki/Blaze",
+    "tags": [
+      "mob",
+      "hostil",
+      "nether",
+      "drop_útil"
+    ]
+  },
+  {
+    "nome": "Cubo de Magma",
+    "descricao": "Mob hostil do Nether semelhante ao Slime, se divide em cubos menores ao ser derrotado.",
+    "data_criacao": "Beta 1.9",
+    "link": "https://minecraft.fandom.com/wiki/Cubo_de_Magma",
+    "tags": [
+      "mob",
+      "hostil",
+      "nether",
+      "drop_útil"
+    ]
+  },
+  {
+    "nome": "Slime",
+    "descricao": "Mob hostil que pula e se divide em versões menores. Encontrado em pântanos e cavernas profundas.",
+    "data_criacao": "Alpha 1.0.11",
+    "link": "https://minecraft.fandom.com/wiki/Slime",
+    "tags": [
+      "mob",
+      "hostil",
+      "drop_útil",
+      "overworld"
+    ]
+  },
+  {
+    "nome": "Bruxa",
+    "descricao": "Mob hostil que atira poções prejudiciais. Aparece em cabanas de pântano e durante raides.",
+    "data_criacao": "1.4.2",
+    "link": "https://minecraft.fandom.com/wiki/Bruxa",
+    "tags": [
+      "mob",
+      "hostil",
+      "poções",
+      "vilager"
+    ]
+  },
+  {
+    "nome": "Esqueleto Wither",
+    "descricao": "Mob hostil encontrado em fortalezas do Nether, inflige o efeito 'Wither' e dropa crânios raros.",
+    "data_criacao": "1.4.2",
+    "link": "https://minecraft.fandom.com/wiki/Esqueleto_Wither",
+    "tags": [
+      "mob",
+      "hostil",
+      "nether",
+      "drop_raro",
+      "chefe_relacionado"
+    ]
+  },
+  {
+    "nome": "Peixe-Prata",
+    "descricao": "Mob pequeno e hostil que se esconde em certos blocos de pedra. É comum em fortalezas.",
+    "data_criacao": "Beta 1.6",
+    "link": "https://minecraft.fandom.com/wiki/Peixe-Prata",
+    "tags": [
+      "mob",
+      "hostil",
+      "fortaleza",
+      "praga"
+    ]
+  },
+  {
+    "nome": "Ender Mite",
+    "descricao": "Mob hostil pequeno que desova quando um jogador usa uma Pérola do Fim, ou naturalmente no End.",
+    "data_criacao": "1.8",
+    "link": "https://minecraft.fandom.com/wiki/Ender_Mite",
+    "tags": [
+      "mob",
+      "hostil",
+      "end",
+      "teletransporte"
+    ]
+  },
+  {
+    "nome": "Guardião Ancião",
+    "descricao": "Mob chefe encontrado nos Monumentos Oceânicos, impõe o efeito 'Fadiga de Mineração'.",
+    "data_criacao": "1.8",
+    "link": "https://minecraft.fandom.com/wiki/Guardião_Ancião",
+    "tags": [
+      "mob",
+      "chefe",
+      "oceano",
+      "hostil",
+      "drop_útil"
+    ]
+  },
+  {
+    "nome": "Bloco de Obsidiana Chorona",
+    "descricao": "Variante da Obsidiana que emite partículas roxas e é usada na criação da Âncora de Respawn.",
+    "data_criacao": "1.16",
+    "link": "https://minecraft.fandom.com/wiki/Bloco_de_Obsidiana_Chorona",
+    "tags": [
+      "bloco",
+      "nether",
+      "respawn",
+      "material",
+      "decoração"
+    ]
+  },
+  {
+    "nome": "Âncora de Respawn",
+    "descricao": "Bloco de respawn que permite ao jogador reaparecer no Nether (precisa ser carregado com Pedra Luminosa).",
+    "data_criacao": "1.16",
+    "link": "https://minecraft.fandom.com/wiki/Âncora_de_Respawn",
+    "tags": [
+      "bloco",
+      "nether",
+      "utilidade",
+      "respawn"
+    ]
+  },
+  {
+    "nome": "Bloco de Gelo Compactado",
+    "descricao": "Um tipo de gelo que não derrete e é mais escorregadio que o gelo normal, ótimo para transporte.",
+    "data_criacao": "1.7.2",
+    "link": "https://minecraft.fandom.com/wiki/Bloco_de_Gelo_Compactado",
+    "tags": [
+      "bloco",
+      "ambiente",
+      "utilidade",
+      "transporte"
+    ]
+  },
+  {
+    "nome": "Lã Vermelha",
+    "descricao": "Bloco decorativo feito de lã tingida, muito usado em pixel art e decoração.",
+    "data_criacao": "Alpha 1.0.4",
+    "link": "https://minecraft.fandom.com/wiki/Lã",
+    "tags": [
+      "bloco",
+      "decoração",
+      "material",
+      "construção"
+    ]
+  },
+  {
+    "nome": "Moldura Brilhante",
+    "descricao": "Uma moldura que faz o item contido brilhar e ser visível mesmo no escuro ou de longe.",
+    "data_criacao": "1.17",
+    "link": "https://minecraft.fandom.com/wiki/Moldura_Brilhante",
+    "tags": [
+      "item",
+      "decoração",
+      "utilidade",
+      "iluminação"
+    ]
+  },
+  {
+    "nome": "Vela",
+    "descricao": "Uma fonte de luz que pode ser colocada sobre um bloco ou em um bolo. Pode ser tingida.",
+    "data_criacao": "1.17",
+    "link": "https://minecraft.fandom.com/wiki/Vela",
+    "tags": [
+      "item",
+      "iluminação",
+      "decoração",
+      "utilidade"
+    ]
+  },
+  {
+    "nome": "Porta de Ferro",
+    "descricao": "Uma porta que só pode ser aberta com Redstone (botão, alavanca ou placa de pressão), oferecendo segurança.",
+    "data_criacao": "Alpha 1.0.14",
+    "link": "https://minecraft.fandom.com/wiki/Porta_de_Ferro",
+    "tags": [
+      "bloco",
+      "utilidade",
+      "segurança",
+      "redstone"
+    ]
+  },
+  {
+    "nome": "Pérola do Fim",
+    "descricao": "Item largado por Endermen que, quando arremessado, teleporta o jogador para o local de impacto.",
+    "data_criacao": "Beta 1.8",
+    "link": "https://minecraft.fandom.com/wiki/Pérola_do_Fim",
+    "tags": [
+      "item",
+      "teletransporte",
+      "utilidade",
+      "end_game"
+    ]
+  },
+  {
+    "nome": "Pistão",
+    "descricao": "Um bloco que pode empurrar outros blocos, fundamental para mecanismos de Redstone.",
+    "data_criacao": "Alpha 1.0.1",
+    "link": "https://minecraft.wiki/w/Piston",
+    "tags": [
+      "bloco",
+      "redstone",
+      "mecanismo",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Trilho Elétrico",
+    "descricao": "Um trilho que acelera ou para carrinhos de mina quando energizado por Redstone.",
+    "data_criacao": "Alpha 1.0.4",
+    "link": "https://minecraft.wiki/w/Powered_Rail",
+    "tags": [
+      "bloco",
+      "transporte",
+      "redstone",
+      "tecnologia"
+    ]
+  },
+  {
+    "nome": "Bloco de Comando",
+    "descricao": "Um bloco que executa comandos de texto específicos, acessível apenas com permissão.",
+    "data_criacao": "1.3.1",
+    "link": "https://minecraft.wiki/w/Command_Block",
+    "tags": [
+      "bloco",
+      "admin",
+      "comando",
+      "programacao"
+    ]
+  },
+  {
+    "nome": "Balde de Água",
+    "descricao": "Um item essencial para agricultura, movimentação e prevenção de quedas e fogo.",
+    "data_criacao": "Alpha 1.0.1",
+    "link": "https://minecraft.wiki/w/Water_Bucket",
+    "tags": [
+      "item",
+      "ferramenta",
+      "utilidade",
+      "liquido"
+    ]
+  },
+  {
+    "nome": "Enderman",
+    "descricao": "Um mob alto e neutro do The End que pode teletransportar-se e pegar blocos.",
+    "data_criacao": "Beta 1.8",
+    "link": "https://minecraft.wiki/w/Enderman",
+    "tags": [
+      "mob",
+      "hostil",
+      "dimensao",
+      "raro"
+    ]
+  },
+  {
+    "nome": "Piglin",
+    "descricao": "Mobs neutros do Nether que podem ser trocados com ouro, mas se tornam hostis sem ele.",
+    "data_criacao": "1.16",
+    "link": "https://minecraft.wiki/w/Piglin",
+    "tags": [
+      "mob",
+      "nether",
+      "comercio",
+      "hostil"
+    ]
+  },
+  {
+    "nome": "Zoglin",
+    "descricao": "Um Hoglin zumbificado, hostil a quase todas as entidades.",
+    "data_criacao": "1.16",
+    "link": "https://minecraft.wiki/w/Zoglin",
+    "tags": [
+      "mob",
+      "nether",
+      "hostil",
+      "undead"
+    ]
+  },
+  {
+    "nome": "Strider",
+    "descricao": "Mobs passivos do Nether que permitem que jogadores montem através da lava.",
+    "data_criacao": "1.16",
+    "link": "https://minecraft.wiki/w/Strider",
+    "tags": [
+      "mob",
+      "nether",
+      "transporte",
+      "passivo"
+    ]
+  },
+  {
+    "nome": "Capacete de Diamante",
+    "descricao": "Uma peça de armadura que fornece alta proteção, feita de diamante.",
+    "data_criacao": "Alpha 1.2.0",
+    "link": "https://minecraft.wiki/w/Diamond_Helmet",
+    "tags": [
+      "item",
+      "armadura",
+      "protecao",
+      "diamante"
+    ]
+  },
+  {
+    "nome": "Picareta de Diamante",
+    "descricao": "A picareta mais rápida e durável antes do Netherite, essencial para minerar Obsidiana.",
+    "data_criacao": "Alpha 1.2.0",
+    "link": "https://minecraft.wiki/w/Diamond_Pickaxe",
+    "tags": [
+      "item",
+      "ferramenta",
+      "mineração",
+      "diamante"
+    ]
+  },
+  {
+    "nome": "Tesoura",
+    "descricao": "Usada para colher lã de ovelhas sem feri-las e coletar folhas e teias de aranha.",
+    "data_criacao": "1.2.1",
+    "link": "https://minecraft.wiki/w/Shears",
+    "tags": [
+      "item",
+      "ferramenta",
+      "colheita",
+      "utilidade"
+    ]
+  },
+  {
+    "nome": "Etiqueta de Nome",
+    "descricao": "Um item usado para dar nomes permanentes a mobs, prevenindo o desaparecimento.",
+    "data_criacao": "1.6.1",
+    "link": "https://minecraft.wiki/w/Name_Tag",
+    "tags": [
+      "item",
+      "utilidade",
+      "raro",
+      "mob"
+    ]
+  },
+  {
+    "nome": "Carrinho de Mina com Funil",
+    "descricao": "Um carrinho capaz de coletar e armazenar itens de blocos acima ou trilhos.",
+    "data_criacao": "1.5",
+    "link": "https://minecraft.wiki/w/Minecart_with_Hopper",
+    "tags": [
+      "item",
+      "transporte",
+      "automação",
+      "redstone"
+    ]
+  },
+  {
+    "nome": "Livro e Pena",
+    "descricao": "Permite que os jogadores escrevam e salvem textos longos dentro do jogo.",
+    "data_criacao": "1.3.1",
+    "link": "https://minecraft.wiki/w/Book_and_Quill",
+    "tags": [
+      "item",
+      "escrita",
+      "utilidade",
+      "crafting"
+    ]
+  },
+  {
+    "nome": "Poção de Força",
+    "descricao": "Aumenta o dano de ataque corpo a corpo do jogador por um período limitado.",
+    "data_criacao": "Beta 1.9 Prerelease 3",
+    "link": "https://minecraft.wiki/w/Potion_of_Strength",
+    "tags": [
+      "item",
+      "poção",
+      "alquimia",
+      "combate"
+    ]
+  },
+  {
+    "nome": "Perna de Coelho",
+    "descricao": "Ingrediente de poção usado para fazer a Poção do Salto.",
+    "data_criacao": "1.8",
+    "link": "https://minecraft.wiki/w/Rabbit%27s_Foot",
+    "tags": [
+      "item",
+      "ingrediente",
+      "alquimia",
+      "raro"
+    ]
+  },
+  {
+    "nome": "Pão",
+    "descricao": "Uma fonte básica de alimento, feita a partir de três trigos.",
+    "data_criacao": "Alpha 1.0.1",
+    "link": "https://minecraft.wiki/w/Bread",
+    "tags": [
+      "item",
+      "comida",
+      "agricultura",
+      "basico"
+    ]
+  },
+  {
+    "nome": "Bife Cozido",
+    "descricao": "Uma das melhores fontes de nutrição e saturação no jogo.",
+    "data_criacao": "Alpha 1.2.0",
+    "link": "https://minecraft.wiki/w/Cooked_Beef",
+    "tags": [
+      "item",
+      "comida",
+      "carne",
+      "cozido"
+    ]
+  },
+  {
+    "nome": "Tijolos de Pedra",
+    "descricao": "Uma variação decorativa e durável do bloco de pedra, usada em fortalezas.",
+    "data_criacao": "1.1",
+    "link": "https://minecraft.wiki/w/Stone_Bricks",
+    "tags": [
+      "bloco",
+      "construcao",
+      "decoracao",
+      "pedra"
+    ]
+  },
+  {
+    "nome": "Lanterna",
+    "descricao": "Uma fonte de luz portátil e decorativa que pode ser pendurada.",
+    "data_criacao": "1.14",
+    "link": "https://minecraft.wiki/w/Lantern",
+    "tags": [
+      "bloco",
+      "luz",
+      "decoracao",
+      "utilidade"
+    ]
+  },
+  {
+    "nome": "Tijolos de Pedra Musgosa",
+    "descricao": "Tijolos de pedra cobertos de musgo, encontrados em estruturas antigas.",
+    "data_criacao": "Alpha 1.0.1",
+    "link": "https://minecraft.wiki/w/Mossy_Stone_Bricks",
+    "tags": [
+      "bloco",
+      "construcao",
+      "decoracao",
+      "bioma"
+    ]
+  },
+  {
+    "nome": "Vidro Tingido de Preto",
+    "descricao": "Vidro que bloqueia a passagem de luz, usado para estética escura ou janelas.",
+    "data_criacao": "1.8",
+    "link": "https://minecraft.wiki/w/Black_Stained_Glass",
+    "tags": [
+      "bloco",
+      "decoracao",
+      "vidro",
+      "cor"
+    ]
+  },
+  {
+    "nome": "Bloco de Quartzo",
+    "descricao": "Um bloco branco e suave, popular para construções modernas e decorativas.",
+    "data_criacao": "1.5",
+    "link": "https://minecraft.wiki/w/Quartz_Block",
+    "tags": [
+      "bloco",
+      "construcao",
+      "nether",
+      "decoracao"
+    ]
+  },
+  {
+    "nome": "Balde de Lava",
+    "descricao": "Um item usado como fonte de combustível, arma ou para criar blocos de Obsidiana.",
+    "data_criacao": "Alpha 1.0.1",
+    "link": "https://minecraft.wiki/w/Lava_Bucket",
+    "tags": [
+      "item",
+      "combustivel",
+      "utilidade",
+      "liquido"
+    ]
+  },
+  {
+    "nome": "Aranha",
+    "descricao": "Um mob hostil noturno que pode escalar paredes e se torna neutro à luz do dia.",
+    "data_criacao": "Alpha 1.0.8",
+    "link": "https://minecraft.wiki/w/Spider",
+    "tags": [
+      "mob",
+      "hostil",
+      "noite",
+      "drop"
+    ]
+  },
+  {
+    "nome": "Esqueleto",
+    "descricao": "Um mob zumbi atirador que usa um arco para atacar de longe.",
+    "data_criacao": "Alpha 1.0.8",
+    "link": "https://minecraft.wiki/w/Skeleton",
+    "tags": [
+      "mob",
+      "hostil",
+      "undead",
+      "ranged"
+    ]
+  },
+  {
+    "nome": "Ovelha",
+    "descricao": "Um mob passivo que fornece lã e carne, podendo ser tosado em várias cores.",
+    "data_criacao": "Alpha 1.0.1",
+    "link": "https://minecraft.wiki/w/Sheep",
+    "tags": [
+      "mob",
+      "passivo",
+      "animal",
+      "lã"
+    ]
+  },
+  {
+    "nome": "Porco",
+    "descricao": "Um mob passivo que fornece carne de porco, que pode ser cozida para alimentação.",
+    "data_criacao": "Alpha 1.0.1",
+    "link": "https://minecraft.wiki/w/Pig",
+    "tags": [
+      "mob",
+      "passivo",
+      "animal",
+      "comida"
+    ]
+  },
+  {
+    "nome": "Vaca",
+    "descricao": "Um mob passivo que fornece couro, carne e leite (usando um balde).",
+    "data_criacao": "Alpha 1.0.1",
+    "link": "https://minecraft.wiki/w/Cow",
+    "tags": [
+      "mob",
+      "passivo",
+      "animal",
+      "utilidade"
+    ]
+  },
+  {
+    "nome": "Caveira Ambulante",
+    "descricao": "Uma variante gelada e rara do esqueleto, que atira flechas com lentidão.",
+    "data_criacao": "1.10",
+    "link": "https://minecraft.wiki/w/Stray",
+    "tags": [
+      "mob",
+      "hostil",
+      "gelo",
+      "undead"
+    ]
+  },
+  {
+    "nome": "Afogado",
+    "descricao": "Um mob zumbi aquático que pode soltar tridentes e atacar jogadores debaixo d'água.",
+    "data_criacao": "1.13",
+    "link": "https://minecraft.wiki/w/Drowned",
+    "tags": [
+      "mob",
+      "hostil",
+      "aquatico",
+      "undead"
+    ]
+  },
+  {
+    "nome": "Pillager",
+    "descricao": "Mobs hostis que formam patrulhas e atacam aldeias usando bestas.",
+    "data_criacao": "1.14",
+    "link": "https://minecraft.wiki/w/Pillager",
+    "tags": [
+      "mob",
+      "hostil",
+      "raid",
+      "illager"
+    ]
+  },
+  {
+    "nome": "Peitoral de Diamante",
+    "descricao": "A peça de armadura que oferece a maior proteção base de diamante.",
+    "data_criacao": "Alpha 1.2.0",
+    "link": "https://minecraft.wiki/w/Diamond_Chestplate",
+    "tags": [
+      "item",
+      "armadura",
+      "protecao",
+      "diamante"
+    ]
+  },
+  {
+    "nome": "Semente de Trigo",
+    "descricao": "Usada para plantar trigo, que é transformado em pão ou usado para criar animais.",
+    "data_criacao": "Alpha 1.0.0",
+    "link": "https://minecraft.wiki/w/Wheat_Seeds",
+    "tags": [
+      "item",
+      "agricultura",
+      "plantio",
+      "comida"
+    ]
+  },
+  {
+    "nome": "Batata Cozida",
+    "descricao": "Uma fonte de comida que recupera boa quantidade de fome após cozinhar a batata crua.",
+    "data_criacao": "1.4.2",
+    "link": "https://minecraft.wiki/w/Baked_Potato",
+    "tags": [
+      "item",
+      "comida",
+      "vegetal",
+      "cozido"
+    ]
+  },
+  {
+    "nome": "Melancia Reluzente",
+    "descricao": "Um ingrediente de poção usado para criar a Poção de Cura.",
+    "data_criacao": "Beta 1.9 Prerelease 3",
+    "link": "https://minecraft.wiki/w/Glistering_Melon_Slice",
+    "tags": [
+      "item",
+      "ingrediente",
+      "alquimia",
+      "ouro"
+    ]
+  },
+  {
+    "nome": "Creme de Magma",
+    "descricao": "Um ingrediente de poção usado para criar a Poção de Resistência ao Fogo.",
+    "data_criacao": "Beta 1.9 Prerelease 3",
+    "link": "https://minecraft.wiki/w/Magma_Cream",
+    "tags": [
+      "item",
+      "ingrediente",
+      "alquimia",
+      "nether"
+    ]
+  },
+  {
+    "nome": "Bloco de Neve",
+    "descricao": "Um bloco compacto feito de bolas de neve, usado para construir iglus ou Golems de Neve.",
+    "data_criacao": "Alpha 1.0.1",
+    "link": "https://minecraft.wiki/w/Snow_Block",
+    "tags": [
+      "bloco",
+      "construcao",
+      "bioma",
+      "material"
+    ]
+  },
+  {
+    "nome": "Laje de Pedra Polida",
+    "descricao": "Uma laje feita de pedra, usada para detalhes estéticos em construções.",
+    "data_criacao": "1.14",
+    "link": "https://minecraft.wiki/w/Polished_Stone_Slab",
+    "tags": [
+      "bloco",
+      "construcao",
+      "decoracao",
+      "pedra"
+    ]
+  },
+  {
+    "nome": "Painel de Vidro",
+    "descricao": "Uma versão fina e estreita do vidro, usado para janelas e divisórias.",
+    "data_criacao": "Beta 1.8",
+    "link": "https://minecraft.wiki/w/Glass_Pane",
+    "tags": [
+      "bloco",
+      "decoracao",
+      "vidro",
+      "transparente"
+    ]
+  },
+  {
+    "nome": "Trilho Detector",
+    "descricao": "Um trilho que emite um sinal de Redstone quando um carrinho de mina passa sobre ele.",
+    "data_criacao": "Alpha 1.0.4",
+    "link": "https://minecraft.wiki/w/Detector_Rail",
+    "tags": [
+      "bloco",
+      "redstone",
+      "transporte",
+      "sensor"
+    ]
+  },
+  {
+    "nome": "Trilho Normal",
+    "descricao": "O trilho básico usado para o movimento simples e lento de carrinhos de mina.",
+    "data_criacao": "Alpha 1.0.4",
+    "link": "https://minecraft.wiki/w/Rail",
+    "tags": [
+      "bloco",
+      "transporte",
+      "carrinho",
+      "mecanismo"
+    ]
+  },
+  {
+    "nome": "Porta de Carvalho Escuro",
+    "descricao": "Uma porta com um design mais robusto e escuro, feita de madeira de carvalho escuro.",
+    "data_criacao": "1.7.2",
+    "link": "https://minecraft.wiki/w/Dark_Oak_Door",
+    "tags": [
+      "bloco",
+      "construcao",
+      "seguranca",
+      "madeira"
+    ]
+  },
+  {
+    "nome": "Cenoura em um Graveto",
+    "descricao": "Uma ferramenta usada para controlar Striders no Nether, atuando como um volante.",
+    "data_criacao": "1.4.2",
+    "link": "https://minecraft.wiki/w/Carrot_on_a_Stick",
+    "tags": [
+      "item",
+      "ferramenta",
+      "controle",
+      "transporte"
+    ]
+  },
+  {
+    "nome": "Carrinho de Mina com TNT",
+    "descricao": "Um carrinho de mina que explode ao ser ativado por Redstone ou colisão.",
+    "data_criacao": "1.4.2",
+    "link": "https://minecraft.wiki/w/Minecart_with_TNT",
+    "tags": [
+      "item",
+      "explosivo",
+      "redstone",
+      "arma"
+    ]
+  },
+  {
+    "nome": "Poção de Velocidade",
+    "descricao": "Aumenta a velocidade de movimento do jogador por um período limitado.",
+    "data_criacao": "Beta 1.9 Prerelease 3",
+    "link": "https://minecraft.wiki/w/Potion_of_Swiftness",
+    "tags": [
+      "item",
+      "poção",
+      "alquimia",
+      "utilidade"
+    ]
+  },
+  {
+    "nome": "Coelho",
+    "descricao": "Um mob passivo e rápido que solta Pés de Coelho (raramente) e carne.",
+    "data_criacao": "1.8",
+    "link": "https://minecraft.wiki/w/Rabbit",
+    "tags": [
+      "mob",
+      "passivo",
+      "animal",
+      "comida"
+    ]
+  },
+  {
+    "nome": "Pó de Osso",
+    "descricao": "Fertilizante usado para acelerar o crescimento de plantas e árvores.",
+    "data_criacao": "Alpha 1.0.1",
+    "link": "https://minecraft.wiki/w/Bone_Meal",
+    "tags": [
+      "item",
+      "agricultura",
+      "fertilizante",
+      "utilidade"
+    ]
+  },
+  {
+    "nome": "Bloco de Ferro",
+    "descricao": "Bloco de armazenamento de ferro, usado principalmente para construção de Golems de Ferro e Faróis.",
+    "data_criacao": "Alpha 1.2.0",
+    "link": "https://minecraft.wiki/w/Iron_Block",
+    "tags": [
+      "bloco",
+      "metal",
+      "armazenamento",
+      "construcao"
+    ]
+  },
+  {
+    "nome": "Bloco de Lápis-Lazúli",
+    "descricao": "Bloco de armazenamento de Lápis-Lazúli, usado para colorir e construir.",
+    "data_criacao": "Alpha 1.2.0",
+    "link": "https://minecraft.wiki/w/Lapis_Lazuli_Block",
+    "tags": [
+      "bloco",
+      "decoracao",
+      "corante",
+      "armazenamento"
+    ]
+  }
+]

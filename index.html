@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minepedia</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Minepedia</h1>
+        <div class="search-container">
+            <input type="text" placeholder="Digite um item, bloco ou mob...">
+            <button class="search-button">Buscar</button>
+        </div>
+        <div class="music-player">
+            <button id="mute-button" class="volume-icon"><img src="images/jukebox.gif" alt="Player de música" style="width: 50px; height: 50px;"></button>
+            <div class="volume-slider-container">
+                <input type="range" id="volume-slider" min="0" max="100" value="10">
+            </div>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="hero-background"></div>
+        <div class="hero-content">
+            <h1>Bem-vindo à Minepedia!</h1>
+            <p>O seu guia completo do universo de Minecraft. Explore blocos, itens, mobs e muito mais!</p>
+    </section>
+
+    <main>
+        <nav class="tag-menu">
+            <div class="tag-menu-header">
+                <h2>Filtre por Tags:</h2>
+                <div class="stats-counter">Carregando...</div>
+            </div>
+            <ul>
+                <li><a href="#" data-tag="bloco">Bloco</a></li>
+                <li><a href="#" data-tag="item">Item</a></li>
+                <li><a href="#" data-tag="utilidade">Utilidade</a></li>
+                <li><a href="#" data-tag="mob">Mob</a></li>
+                <li><a href="#" data-tag="hostil">Hostil</a></li>
+                <li><a href="#" data-tag="decoração">Decoração</a></li>
+                <li><a href="#" data-tag="redstone">Redstone</a></li>
+                <li><a href="#" data-tag="nether">Nether</a></li>
+                <li><a href="#" data-tag="ferramenta">Ferramenta</a></li>
+                <li><a href="#" data-tag="comida">Comida</a></li>
+                <li><a href="#" data-tag="material">Material</a></li>
+                <li><a href="#" data-tag="construção">Construção</a></li>
+                <li><a href="#" data-tag="transporte">Transporte</a></li>
+                <li><a href="#" data-tag="mecanismo">Mecanismo</a></li>
+                <li><a href="#" data-tag="alquimia">Alquimia</a></li>
+                <li><a href="#" class="clear-filter-button">Limpar Filtro</a></li>
+            </ul>
+        </nav>
+        <section class="card-container">
+            <!-- Cards serão inseridos aqui dinamicamente -->
+        </section>
+        <div class="load-more-container">
+            <button class="load-more-button">Carregar Mais</button>
+        </div>
+    </main>
+
+    <section class="about-section">
+        <h2>Sobre o Projeto</h2>
+        <p>Este site é uma enciclopédia interativa dedicada ao universo de Minecraft, criada para ajudar jogadores a descobrir e aprender sobre os diversos itens, blocos e mobs do jogo.</p>
+    </section>
+
+    <footer class="footer">
+        <p class="footer-text">Minepedia © 2025 - Criado por zrdep</p>
+        <div class="footer-links">
+            <a href="https://www.youtube.com/@zrdep" target="_blank">YouTube</a>
+            <a href="https://www.instagram.com/zrdep/" target="_blank">Instagram</a>
+        </div>
+    </footer>
+
+    <!-- Player de Áudio -->
+    <audio id="background-music" loop src="sounds/blocks.mp3"></audio>
+
+    <a href="#" id="back-to-top" class="back-to-top-button" title="Voltar ao Topo">▲</a>
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
