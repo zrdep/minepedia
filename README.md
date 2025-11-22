@@ -15,7 +15,7 @@ O **Minepedia** é uma aplicação web que funciona como uma enciclopédia inter
 
 ### 🎯 Objetivo
 
-Criar uma ferramenta útil e criativa para a comunidade Minecraft, aplicando os conceitos aprendidos na Imersão Dev Alura, utilizando apenas tecnologias web fundamentais (HTML, CSS e JavaScript vanilla).
+Criar uma ferramenta útil e criativa para a comunidade Minecraft, aplicando os conceitos aprendidos na Imersão Dev Alura, utilizando apenas tecnologias web fundamentais (HTML, CSS e JavaScript).
 
 ## ✨ Funcionalidades
 
